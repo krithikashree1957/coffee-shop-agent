@@ -1,0 +1,20 @@
+# Environment files & API keys
+.env
+.env.*
+*.env
+
+# Google Cloud credentials & JSON keys
+*.json
+key.json
+credentials.json
+service-account*.json
+
+# Python & caches
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs & build files
+*.log
+.adk/
