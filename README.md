@@ -166,7 +166,7 @@ Security note: never commit service account keys or secrets to the repo. Use Sec
 
 ## License
 
-This project is released under the MIT License. See LICENSE file for details.
+This project is released under the MIT License.
 
 ---
 
